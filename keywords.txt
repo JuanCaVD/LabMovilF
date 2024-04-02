@@ -1,0 +1,48 @@
+##########################################################
+# Syntax Coloring Map For LabMovilF
+##########################################################
+
+##########################################################
+# Datatypes (KEYWORD1)
+##########################################################
+
+LabMovilF	KEYWORD1
+ads1115	KEYWORD1
+
+##########################################################
+# Methods and Functions (KEYWORD2)
+##########################################################
+
+MenuLab	KEYWORD2
+Voltaje	KEYWORD2
+LabBegin	KEYWORD2
+PrintData	KEYWORD2
+PrintLCD	KEYWORD2
+ValorSensor	KEYWORD2
+Capacitancia	KEYWORD2
+Resistencia	KEYWORD2
+SetCapInterno	KEYWORD2
+TempExterna	KEYWORD2
+luxometro	KEYWORD2
+LuxBegin	KEYWORD2
+MCP3421begin	KEYWORD2
+SetPGA_MCP3421	KEYWORD2
+SetVoltaje	KEYWORD2
+Medidor_ESR	KEYWORD2
+PCF8574Begin	KEYWORD2
+DistanciaA	KEYWORD2
+CorrienteD	KEYWORD2
+SetCorrienteD	KEYWORD2
+SetResistenciaPullUp	KEYWORD2
+
+##########################################################
+# Constants (LITERAL1)
+##########################################################
+
+B_Inicio	LITERAL1
+LaserPin	LITERAL1
+TriggerPin	LITERAL1
+B_Modo	LITERAL1
+B_1	LITERAL1
+B_2	LITERAL1
+EchoPin	LITERAL1
