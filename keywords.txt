@@ -34,6 +34,7 @@ DistanciaA	KEYWORD2
 CorrienteD	KEYWORD2
 SetCorrienteD	KEYWORD2
 SetResistenciaPullUp	KEYWORD2
+SetResistenciaDivisor	KEYWORD2
 
 ##########################################################
 # Constants (LITERAL1)

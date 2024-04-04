@@ -202,6 +202,7 @@ public:
     void Resistencia(bool imprime_ = 1);
     void SetResistenciaPullUp(float Resistencia_PullUp_ ){ Resistencia_PullUp = Resistencia_PullUp_;}
     void SetCapInterno( float CapInternoGND_){ CapInternoGND = CapInternoGND_;}
+    void SetResistenciaDivisor(uint16_t ResistenicaDivisor_) { ResistenicaDivisor = ResistenicaDivisor_; }
     ///----DS18B20-----///
     void TempExterna(bool imprime_ = 1);
     ///----HB1750-----///
